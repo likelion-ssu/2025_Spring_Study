@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ba43ea28-1581-4c6a-8f40-c2d781ee7c07" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/week3/GEUN/backend/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week3/GEUN/backend/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week3/GEUN/backend/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week3/GEUN/backend/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week3/GEUN/backend/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week3/GEUN/backend/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week3/GEUN/backend/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week3/GEUN/backend/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week3/GEUN/backend/src/main/java/likelion/backend/BackendApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week3/GEUN/backend/src/main/java/likelion/backend/config/JpaConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week3/GEUN/backend/src/main/java/likelion/backend/member/Member.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week3/GEUN/backend/src/main/java/likelion/backend/post/Post.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week3/GEUN/backend/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week3/GEUN/backend/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week3/GEUN/backend/src/test/java/likelion/backend/BackendApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week4/GEUN/backend/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week4/GEUN/backend/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week4/GEUN/backend/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week4/GEUN/backend/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week4/GEUN/backend/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week4/GEUN/backend/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week4/GEUN/backend/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week4/GEUN/backend/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week4/GEUN/backend/src/main/java/likelion/backend/BackendApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week4/GEUN/backend/src/main/java/likelion/backend/config/JpaConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week4/GEUN/backend/src/main/java/likelion/backend/member/LoginRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week4/GEUN/backend/src/main/java/likelion/backend/member/LoginResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week4/GEUN/backend/src/main/java/likelion/backend/member/Member.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week4/GEUN/backend/src/main/java/likelion/backend/member/MemberController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week4/GEUN/backend/src/main/java/likelion/backend/member/MemberRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week4/GEUN/backend/src/main/java/likelion/backend/member/MemberService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week4/GEUN/backend/src/main/java/likelion/backend/member/MemberServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week4/GEUN/backend/src/main/java/likelion/backend/member/SignUpRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week4/GEUN/backend/src/main/java/likelion/backend/post/CreatePostRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week4/GEUN/backend/src/main/java/likelion/backend/post/Post.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week4/GEUN/backend/src/main/java/likelion/backend/post/PostController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week4/GEUN/backend/src/main/java/likelion/backend/post/PostCreateResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week4/GEUN/backend/src/main/java/likelion/backend/post/PostGetResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week4/GEUN/backend/src/main/java/likelion/backend/post/PostRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week4/GEUN/backend/src/main/java/likelion/backend/post/PostService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week4/GEUN/backend/src/main/java/likelion/backend/post/UpdatePostRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week4/GEUN/backend/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week4/GEUN/backend/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week4/GEUN/backend/src/test/java/likelion/backend/BackendApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week5/GEUN/backend/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week5/GEUN/backend/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week5/GEUN/backend/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week5/GEUN/backend/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week5/GEUN/backend/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week5/GEUN/backend/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week5/GEUN/backend/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week5/GEUN/backend/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week5/GEUN/backend/src/main/java/likelion/backend/BackendApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week5/GEUN/backend/src/main/java/likelion/backend/config/JpaConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week5/GEUN/backend/src/main/java/likelion/backend/member/LoginRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week5/GEUN/backend/src/main/java/likelion/backend/member/LoginResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week5/GEUN/backend/src/main/java/likelion/backend/member/Member.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week5/GEUN/backend/src/main/java/likelion/backend/member/MemberController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week5/GEUN/backend/src/main/java/likelion/backend/member/MemberRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week5/GEUN/backend/src/main/java/likelion/backend/member/MemberService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week5/GEUN/backend/src/main/java/likelion/backend/member/MemberServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week5/GEUN/backend/src/main/java/likelion/backend/member/SignUpRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week5/GEUN/backend/src/main/java/likelion/backend/post/CreatePostRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week5/GEUN/backend/src/main/java/likelion/backend/post/Post.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week5/GEUN/backend/src/main/java/likelion/backend/post/PostController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week5/GEUN/backend/src/main/java/likelion/backend/post/PostCreateResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week5/GEUN/backend/src/main/java/likelion/backend/post/PostGetResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week5/GEUN/backend/src/main/java/likelion/backend/post/PostRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week5/GEUN/backend/src/main/java/likelion/backend/post/PostService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week5/GEUN/backend/src/main/java/likelion/backend/post/UpdatePostRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week5/GEUN/backend/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week5/GEUN/backend/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week5/GEUN/backend/src/test/java/likelion/backend/BackendApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week4/.gitkeep" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;geunmoon&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/likelion-ssu/2025_Spring_Study.git&quot;,
+    &quot;accountId&quot;: &quot;7a496aba-09bc-40c3-b1cc-f5cbcdd0c022&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="30oNGyVlv9T5psohygTRSSvvQ1v" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/moongeun/Documents/IntelliJProjects/2025_Spring_Study/week4",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "advanced.settings",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/week4" />
+      <recent name="$PROJECT_DIR$/week5/GEUN" />
+      <recent name="$PROJECT_DIR$/week3" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fbdcb00ec9e3-intellij.indexing.shared.core-IU-251.25410.109" />
+        <option value="bundled-js-predefined-d6986cc7102b-6a121458b545-JavaScript-IU-251.25410.109" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ba43ea28-1581-4c6a-8f40-c2d781ee7c07" name="Changes" comment="" />
+      <created>1737439991226</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1737439991226</updated>
+      <workItem from="1737439992638" duration="616000" />
+      <workItem from="1754289874990" duration="300000" />
+      <workItem from="1754290196713" duration="351000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
